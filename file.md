@@ -1,7 +1,3 @@
-### H1 _You **can** combine them_
-
-_Use the `printf()` function._
-
-**![Alt text](/path/to/img.jpg) has no title attribute.**
-## H2
-# H1
+# Пример постоения дерева
+#### Ещё *один __пример__ 111* dff![alt text 1](!logosdfvgb) Заголовок! **Жирный заголовок**
+![alt text 1](!logosdfvgb)
