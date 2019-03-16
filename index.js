@@ -6,7 +6,7 @@ let text = fs.readFileSync('file.md', 'utf-8');
 
 
 let parser = new Parser(text);
-parser.printContext();
+//parser.printContext();
 //console.log("_____");
 parser.parse();
 //console.log("_____");
