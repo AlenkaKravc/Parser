@@ -50,6 +50,8 @@ __double underscores__
 
 un*frigging*believable
 
+__double *single asterisks* underscores__
+
 \*this text is surrounded by literal asterisks\*
 
 Use the `printf()` function.
