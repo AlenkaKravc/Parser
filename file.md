@@ -1,9 +1,7 @@
-# Заголовок1 `<blink>`
 
-    swdwefrgt 567
-    ghjn
 
-    fghj fcgvhb
-    ghjk
+# fgh erftg [1jnk][2] edfrgthy
 
-sdfg
+----------
+
+[2]: vggtrgtr "vgf"
