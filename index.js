@@ -14,6 +14,8 @@ let parser = new MarkdownParser(text);
 parser.parse();
 console.log("\n            _____ Tree ____\n");
 parser.printTree();
+
+parser.printReferences();
 //console.log("\n");
 //parser.printLines();
 
