@@ -14,8 +14,12 @@ let parser = new MarkdownParser(text);
 parser.parse();
 console.log("\n            _____ Tree ____\n");
 parser.printTree();
+let HTML = parser.toHTML();
 
+fs.writeFile("index.html", HTML, function (err) {
+    if (err) throw err;
+    console.log('HTML file is created successfully.');
+});
 parser.printReferences();
-//console.log("\n");
-//parser.printLines();
+
 

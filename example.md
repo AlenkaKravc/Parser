@@ -64,9 +64,9 @@ A backtick-delimited string in a code span: `` `foo` ``
 
 Please don't use any `<blink>` tags.
 
-![Alt text](/path/to/img.jpg)
+![Alt text](https://daringfireball.net/graphics/logos/)
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](https://daringfireball.net/graphics/logos/ "Optional title")
 
 <http://example.com/>
 
@@ -91,7 +91,7 @@ Please don't use any `<blink>` tags.
 > Back to the first level.
 
 > ## This is a header.
-> 
+> *************
 > 1.   This is the first list item.
 > 2.   This is the second list item.
 > 
